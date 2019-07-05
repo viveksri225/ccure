@@ -1,0 +1,178 @@
+@import '~antd/dist/antd.css';
+ 
+
+
+.bg {
+    width: 100%;
+    height: 100vh;
+    background: url('../images/background.png');
+    background-repeat: repeat;
+    object-fit: cover;
+}
+
+.p-1 {
+    padding: 1rem;
+}
+
+.p-2 {
+    padding: 2rem;
+}
+
+.p-3 {
+    padding: 3rem;
+}
+
+.p-4 {
+    padding: 4rem;
+}
+
+.pt-1 {
+    padding-top: 1rem;
+}
+
+.pt-2 {
+    padding-top: 2rem;
+}
+
+.pt-3 {
+    padding-top: 3rem;
+}
+
+.pt-4 {
+    padding-top: 4rem;
+}
+
+.pr-2 {
+    padding-right: 2rem;
+}
+
+.pr-3 {
+    padding-right: 3rem;
+}
+
+.pr-4 {
+    padding-right: 4rem;
+}
+
+.pl-2 {
+    padding-left: 2rem;
+}
+
+.ml-1 {
+    margin-left: 1rem;
+}
+
+.ml-2 {
+    margin-left: 2rem;
+}
+
+.ml-3 {
+    margin-left: 3rem;
+}
+
+.mt-1 {
+    margin-top: 1rem;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.mt-3 {
+    margin-top: 3rem;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+#nav.ant-menu {
+    padding: 10px;
+}
+
+#nav .nav-title {
+    color: #46546d;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#nav .nav-item {
+    color: #425b8a;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#nav .label {
+    border-radius: 3px;
+    background-color: #e4e7ea;
+    color: #95989a;
+    font-size: 10px;
+    font-weight: 400;
+    padding: 1px 8px;
+    margin-left: 5px;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.white-background {
+    background: #ffffff;
+}
+
+.green-border {
+    border: 1px solid #1dd2af;
+}
+
+.fontsize-14 {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ml-05 {
+    margin-left: 16px;
+}
+
+.mt-3 {
+    margin-top: 3rem;
+}
+
+.btn-f615c3 {
+    background-color: #f615c3;
+    border-color: #f615c3;
+}
+
+.btn-fd5c63 {
+    background-color: #fd5c63;
+    border-color: #fd5c63;
+}
+
+.btn-fdc8d8 {
+    background-color: #fdc8d8;
+    border-color: #fdc8d8;
+}
+
+.btn-bd7bf0 {
+    background-color: #bd7bf0;
+    border-color: #bd7bf0;
+}
+
+.btn-0ad31c {
+    background-color: #0ad31c;
+    border-color: #0ad31c;
+}
+
+
